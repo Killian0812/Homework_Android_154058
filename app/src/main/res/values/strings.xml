@@ -20,4 +20,14 @@
     <string name="equal">=</string>
     <string name="dot">.</string>
     <string name="add_or_sub">+/-</string>
+
+    <string-array name="currency">
+        <item>Việt Nam - Đồng</item>
+        <item>Hoa Kỳ - Đô la Mỹ</item>
+        <item>Liên minh Châu Âu - Euro</item>
+        <item>Nhật Bản - Yên</item>
+        <item>Hàn Quốc - Won</item>
+        <item>Trung Quốc - Nhân dân tệ</item>
+        <item>Thái Lan - Baht</item>
+    </string-array>
 </resources>

@@ -30,4 +30,8 @@
         <item>Trung Quốc - Nhân dân tệ</item>
         <item>Thái Lan - Baht</item>
     </string-array>
+
+    <string name="province_prompt">Select Province/City</string>
+    <string name="district_prompt">Select District</string>
+    <string name="ward_prompt">Select Ward/Commune</string>
 </resources>
